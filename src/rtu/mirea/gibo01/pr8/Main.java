@@ -11,4 +11,4 @@ public class Main {
     Cat cat1 = new Cat(12,"Мино");
         System.out.println(cat1.getType() + " " + cat1.getName() + " " + cat1.meow());
 }
-}
+
